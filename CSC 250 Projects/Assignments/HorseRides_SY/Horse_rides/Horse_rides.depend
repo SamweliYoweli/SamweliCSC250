@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713573144 source:c:\users\samwe\onedrive\documents\csc 250 projects\assignments\horserides_sy\horse_rides\horse_rides.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	"Ride.h"
+
+1713573209 c:\users\samwe\onedrive\documents\csc 250 projects\assignments\horserides_sy\horse_rides\ride.h
+	<string>
+	<iomanip>
+
+1713573220 source:c:\users\samwe\onedrive\documents\csc 250 projects\assignments\horserides_sy\horse_rides\ride.cpp
+	<iostream>
+	<string>
+	"Ride.h"
+
